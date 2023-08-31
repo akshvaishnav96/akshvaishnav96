@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshvaishnav
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning node js & react.js
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on any fresher projects
 - 📫 How to reach me email: vaishnavaksh@gmail.com 
 
