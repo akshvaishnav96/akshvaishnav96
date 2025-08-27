@@ -25,7 +25,7 @@
 
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
-- 📄  To see my -[Resume]([https://drive.google.com/file/d/1VqZwVQK7bAasYpIi7VRMalVq0VkTiz72/view?usp=sharing](https://drive.google.com/file/d/1R3zo0MwzsT5ebLr4Ykrw31nq-HiAB7U2/view?usp=drive_link))
+- 📄  To see my -[Resume]([https://drive.google.com/file/d/1R3zo0MwzsT5ebLr4Ykrw31nq-HiAB7U2/view?usp=drive])
 
 
 
