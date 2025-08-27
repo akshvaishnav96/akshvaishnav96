@@ -36,7 +36,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Akash%20Diwakar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-diwakar-112b601ba/)
 
-[![Gmail Badge](https://img.shields.io/badge/-aakashmukherjee1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashdiwakar575@gmail.com)](mailto:aakashdiwakar575@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-akashdiwakar575@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akashdiwakar575@gmail.com)](mailto:akashdiwakar575@gmail.com)
 
 
 ## ⚡ Technologies
