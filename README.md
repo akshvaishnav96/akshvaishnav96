@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center" display="flex"><img width="120px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
+<h1 align="center" display="flex"><img width="120px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Diwakar</a></h1> 
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
@@ -25,8 +25,7 @@
 
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
-- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://blackcode1996.github.io/)
-- 📄  To see my -[Resume](https://drive.google.com/file/d/1VqZwVQK7bAasYpIi7VRMalVq0VkTiz72/view?usp=sharing)
+- 📄  To see my -[Resume]([https://drive.google.com/file/d/1VqZwVQK7bAasYpIi7VRMalVq0VkTiz72/view?usp=sharing](https://drive.google.com/file/d/1R3zo0MwzsT5ebLr4Ykrw31nq-HiAB7U2/view?usp=drive_link))
 
 
 
