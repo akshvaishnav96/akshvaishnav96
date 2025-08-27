@@ -85,30 +85,6 @@
 
 </div>
 
-
-## 🏆 GitHub Trophies and Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackcode1996&column=-1&theme=chalk&rank=-?&margin-w=25"/>
-</P>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
- 
-<p align="center">
-   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark&animations=true&width=100%" alt="Aakash"/>
-   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![blackcode1996's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blackcode1996&theme=dracula)](https://github.com/blackcode1996/github-readme-activity-graph)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=blackcode1996.blackcode1996)
-
 <!--
 **blackcode1996/blackcode1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
