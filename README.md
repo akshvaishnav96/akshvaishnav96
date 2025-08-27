@@ -34,7 +34,8 @@
 ## 📫 Contact me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)](https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)
+[![Linkedin Badge](https://img.shields.io/badge/-Akash%20Diwakar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-diwakar-112b601ba/)
+
 [![Gmail Badge](https://img.shields.io/badge/-aakashmukherjee1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashmukherjee1996@gmail.com)](mailto:aakashmukherjee1996@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/aakash.mukherjee.58-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/aakash.mukherjee.58)](https://www.facebook.com/aakash.mukherjee.58)
 
