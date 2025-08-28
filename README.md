@@ -20,6 +20,16 @@
 
 ---
 
+### 🌐 Portfolio
+<p align="center">
+  <a href="https://akash-portfolio-gold.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 
 ---
